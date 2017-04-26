@@ -1,6 +1,6 @@
 {
   "name": "root-domain-lite",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "get root domain in browser",
   "main": "index.js",
   "scripts": {
