@@ -1,0 +1,24 @@
+{
+  "name": "root-domain-lite",
+  "version": "1.0.0",
+  "description": "get root domain in browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngusFu/browser-root-domain.git"
+  },
+  "keywords": [
+    "root-domain",
+    "browser",
+    "domain"
+  ],
+  "author": "angusfu1126@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AngusFu/browser-root-domain/issues"
+  },
+  "homepage": "https://github.com/AngusFu/browser-root-domain#readme"
+}
